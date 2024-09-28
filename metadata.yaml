@@ -1,0 +1,17 @@
+composer:
+  last: Eberlin
+  first: Johann Ernst
+title: Missa ex B
+id: HerEb 42
+genre: mass
+scoring: S, A, T, B (coro), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-SEI
+    shelfmark: D VIII 2 b
+    date: 1st half 18th century
+    license: public domain
+    principal: true
+    notes: "manuscript copy (complete, fair); title page (wrapper, fol. 1r): “D III. | Miſsa ex B. | Canto Alto | Tenore Baſso. | Violini 2. | Viola con | Organo. | Sige: Eberlin.”; 8 parts on hand-ruled paper, 32 × 21 cm, 12 staves (10 mm): S coro (6 p.), A coro (6), T coro (6), B coro (6), vl 1 (4), vl 2 (4), vla (4), org (7); fol 2v. of wrapper contains 13 performance dates (1771-04-30, 1772-02-13, 1772-09-10, 1773-09-16, 1775-05-17, 1777-05-02, 1779-09-03, 1779-12-15, 1780-07-27, 1781-06-23, 1781-12-20, 1782-06-20, and 1786-02-04)"
+imslp:
