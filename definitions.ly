@@ -6,7 +6,11 @@
 \include "ees_articulate.ly"
 
 
+hA = \once \override Accidental.stencil = ##f
+
+
 tempoKyrie = \tempoMarkup "Andante"
+tempoKyrieB = \tempoMarkup "Allabreve"
 
 
 \include "notes/vl1.ly"
